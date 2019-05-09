@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Hellp</name>
+        <order/>
+        <roles>x_snc_hellp.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:47:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e78e9779381533007f442a331cca189e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hellp</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hellp" source="x_snc_hellp">c78e9f39381533007f442a331cca18df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hellp">c78e9f39381533007f442a331cca18df</sys_scope>
+        <sys_update_name>sys_ui_application_e78e9779381533007f442a331cca189e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 20:47:30</sys_updated_on>
+    </sys_ui_application>
+</record_update>
